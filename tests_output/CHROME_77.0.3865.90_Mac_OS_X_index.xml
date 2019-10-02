@@ -5,9 +5,9 @@
 
   <testsuite name="index"
     errors="0" failures="0" hostname="" id="" package="index" skipped="0"
-    tests="2" time="4.835" timestamp="">
+    tests="2" time="5.768" timestamp="">
   
-    <testcase name="Displaying always two starships on button click, changing button text" classname="index" time="3.934" assertions="4">
+    <testcase name="Displaying always two starships on button click, changing button text" classname="index" time="4.789" assertions="4">
 
     
 
@@ -18,7 +18,7 @@
     
     </testcase>
   
-    <testcase name="Setting the category" classname="index" time="0.9010" assertions="3">
+    <testcase name="Setting the category" classname="index" time="0.9790" assertions="3">
 
     
 
